@@ -1,6 +1,10 @@
-# visualization of COVID-19 vaccinationsdata (mostoly Germany)
+# COVID-19 Impfdaten Deutschland
 
-I try to visualize Data about the vaccination progress.
+## Umgesetzt in vue.js/vuetify/apexcharts
 
-At the same time i started this Project to get better with vue.js and apexcharts.
-So if you see this code and know how to get better feel free to contact me.
+### Herkunft der Daten:
+```
+https://api.corona-zahlen.org/
+&&
+https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations (allerdings noch nicht genutzt, für spätere Updates geplant )
+```
