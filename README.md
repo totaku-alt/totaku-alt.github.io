@@ -1,6 +1,6 @@
 # COVID-19 Impfdaten Deutschland
 
-## Umgesetzt in vue.js/vuetify/apexcharts
+## Umgesetzt mit vue.js/vuetify/apexcharts
 
 ### Herkunft der Daten:
 ```
