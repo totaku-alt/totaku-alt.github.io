@@ -6,5 +6,6 @@
 ```
 https://api.corona-zahlen.org/
 &&
-https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations (allerdings noch nicht genutzt, für spätere Updates geplant )
+https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations
+(allerdings noch nicht genutzt, für spätere Updates geplant )
 ```
