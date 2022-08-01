@@ -12,5 +12,5 @@ https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations
 ### Zweiter Server
 ```
 Falls die oben genannte API überlastet ist, ich habe die Daten selbst gehostet
-https://api.totaku.me
+https://api.totaku.design
 ```
